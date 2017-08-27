@@ -6,10 +6,10 @@
 		"libs/modules/res/res.js",
 		"libs/modules/tween/tween.js",
 		"libs/modules/dragonBones/dragonBones.js",
+		"libs/modules/egret3d/egret3d.js",
 		"promise/bin/promise.js"
 	],
 	"game": [
-		"bin-debug/LoadingUI.js",
 		"bin-debug/Main.js"
 	]
 }

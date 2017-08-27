@@ -26,6 +26,9 @@
       "name": "dragonBones"
     },
     {
+      "name": "egret3d"
+    },
+    {
       "name": "promise",
       "path": "./promise"
     }
